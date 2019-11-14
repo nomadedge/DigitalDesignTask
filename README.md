@@ -1,5 +1,5 @@
 # Digital Design Enrollment Task
-App for Data Matrix generation from the text.  
+App for Data Matrix generation from the text. It works fine with english letters and most symbols.
 ## Development stack and technologies
  - Universal Windows Platform
  - Syncfusion.SfBarcode.UWP nuget package
